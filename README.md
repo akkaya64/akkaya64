@@ -9,7 +9,7 @@ I'm currently learning to be a Full-Stack Java Developer. Because the software w
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatihakkaya) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%23121011?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21657253) 
 [![Discord](https://img.shields.io/badge/Discord-%23121011.svg?logo=discord&logoColor=white)](https://discord.com/channels/fatihakkaya#9789) 
-[![hackerrank](https://img.io/badge/Hackerrank-%23121011.svg?logo=hackerrank&logoColor=white)](https://discord.com/channels/fatihakkaya#9789) 
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-%23121011.svg?logo=discord&logoColor=white)](https://discord.com/channels/fatihakkaya#9789) 
 ---
 
 
