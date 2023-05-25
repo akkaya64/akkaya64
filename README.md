@@ -12,7 +12,7 @@ I'm currently learning to be a Full-Stack Java Developer. Because the software w
 ---
 
 ![Title](https://img.shields.io/badge/LANGUAGES:-%23121011.svg?)
-![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=blue) 
+![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%23121011.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23121011.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23121011.svg?style=for-the-badge&logo=javascript&logoColor=white)
