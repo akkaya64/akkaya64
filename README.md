@@ -26,11 +26,11 @@ I'm currently learning to be Full-Stack Java Developer
 ![Apache](https://img.shields.io/badge/apache-%23121011.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-%23121011?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23121011.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
  
 
-DATABASES:
-![MongoDB](https://img.shields.io/badge/MongoDB-%23121011.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23121011.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-DESIGN
+![Title](https://img.shields.io/badge/DATABASES:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%23121011.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23121011.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+![Title](https://img.shields.io/badge/DESIGN:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-%23121011?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23121011.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-%23121011?style=for-the-badge&logo=adobeindesign&logoColor=white) 
@@ -39,7 +39,8 @@ DESIGN
 ![Canva](https://img.shields.io/badge/Canva-%23121011.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-%23121011?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 
-OTHER
+
+![Title](https://img.shields.io/badge/OTHER:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23121011.svg?style=for-the-badge&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
@@ -53,11 +54,13 @@ OTHER
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://github-profile-trophy.vercel.app/?username=akkaya64&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![](https://visitcount.itsvg.in/api?id=fatihakkaya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fatihakkaya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://github-profile-trophy.vercel.app/?username=akkaya64&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
  
