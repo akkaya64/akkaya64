@@ -11,7 +11,7 @@ I'm currently learning to be a Full-Stack Java Developer. Because the software w
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%23121011.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/akkaya064?hr_r=1) 
 ---
 
-![Title](https://img.shields.io/badge/LANGUAGES:-%23121011.svg?style=for-the-badge&)
+![Title](https://img.shields.io/badge/LANGUAGES:-%23121011.svg?style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%23121011.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23121011.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -24,18 +24,18 @@ I'm currently learning to be a Full-Stack Java Developer. Because the software w
 ![Flutter](https://img.shields.io/badge/Flutter-%23121011.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ---
 
-![Title](https://img.shields.io/badge/SERVERS:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
+![Title](https://img.shields.io/badge/SERVERS:-%23121011.svg?style=for-the-badge)
 ![Apache](https://img.shields.io/badge/apache-%23121011.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-%23121011?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23121011.svg?style=for-the-badge&logo=apache-tomcat&logoColor=white) 
 ---
 
-![Title](https://img.shields.io/badge/DATABASES:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Title](https://img.shields.io/badge/DATABASES:-%23121011.svg?style=for-the-badge) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23121011.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23121011.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
-![Title](https://img.shields.io/badge/DESIGN:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
+![Title](https://img.shields.io/badge/DESIGN:-%23121011.svg?style=for-the-badge)
 ![Inkscape](https://img.shields.io/badge/Inkscape-%23121011?style=for-the-badge&logo=inkscape&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23121011.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-%23121011?style=for-the-badge&logo=adobeindesign&logoColor=white) 
@@ -45,7 +45,7 @@ I'm currently learning to be a Full-Stack Java Developer. Because the software w
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-%23121011?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 ---
 
-![Title](https://img.shields.io/badge/OTHER:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
+![Title](https://img.shields.io/badge/OTHER:-%23121011.svg?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-%23121011.svg?style=for-the-badge&logo=postman&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
