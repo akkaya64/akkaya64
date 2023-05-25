@@ -4,7 +4,7 @@
 I'm currently learning to be a Full-Stack Java Developer. Because the software world is developing every day and I learn to new developing things every day.
 
 
-![Title](https://img.shields.io/badge/SOCIALS:-%23121011.svg?style=for-the-badge&logo=tringle&logoColor=orange)
+![Title](https://img.shields.io/badge/SOCIALS:-%23121011.svg?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?style=for-the-badge&logo=linkedin&logoColor=orange)](https://linkedin.com/in/fatihakkaya) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%23121011?style=for-the-badge&logo=stack-overflow&logoColor=orange)](https://stackoverflow.com/users/21657253) 
 [![Discord](https://img.shields.io/badge/Discord-%23121011.svg?style=for-the-badge&logo=discord&logoColor=orange)](https://discord.com/channels/fatihakkaya#9789) 
@@ -54,13 +54,13 @@ I'm currently learning to be a Full-Stack Java Developer. Because the software w
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23121011.svg?style=for-the-badge&logo=visual-studio&logoColor=orange) 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=akkaya64&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akkaya64&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akkaya64&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=akkaya64&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akkaya64&theme=slateorange&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akkaya64&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-![](https://github-profile-trophy.vercel.app/?username=akkaya64&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=akkaya64&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akkaya64&icon=0&color=0)](https://visitcount.itsvg.in)
