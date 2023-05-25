@@ -11,8 +11,7 @@ I'm currently learning to be Full-Stack Java Developer
 [![hackerrank](https://img.shields.io/badge/Discord-%23121011.svg?logo=discord&logoColor=white)](https://discord.com/channels/fatihakkaya#9789) 
 
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23121011.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23121011.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
+
 
 
 ![Java](https://img.shields.io/badge/LANGUAGES:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -49,6 +48,8 @@ OTHER
 ![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%23121011.svg?style=for-the-badge&logo=jira&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23121011.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23121011.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
 
 ![](https://github-readme-stats.vercel.app/api?username=akkaya64&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akkaya64&theme=dark&hide_border=true)<br/>
