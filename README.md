@@ -1,4 +1,4 @@
-### Hi World 👋 I'm Fatih Akkaya
+## Hi World 👋 I'm Fatih Akkaya
 
 
 I'm currently learning to be Full-Stack Java Developer
@@ -32,6 +32,7 @@ I'm currently learning to be Full-Stack Java Developer
 
 
 ![Title](https://img.shields.io/badge/DATABASES:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%23121011.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23121011.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
 
 ![Title](https://img.shields.io/badge/DESIGN:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
