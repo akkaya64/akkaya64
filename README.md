@@ -9,6 +9,7 @@ I'm currently learning to be Full-Stack Java Developer
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%23121011?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21657253) 
 [![Discord](https://img.shields.io/badge/Discord-%23121011.svg?logo=discord&logoColor=white)](https://discord.com/channels/fatihakkaya#9789) 
 [![hackerrank](https://img.shields.io/badge/Discord-%23121011.svg?logo=discord&logoColor=white)](https://discord.com/channels/fatihakkaya#9789) 
+---
 
 
 
@@ -16,14 +17,17 @@ I'm currently learning to be Full-Stack Java Developer
 
 ![Title](https://img.shields.io/badge/LANGUAGES:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%23121011.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23121011.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23121011.svg?style=for-the-badge&logo=javascript&logoColor=white)
+---
 
 
 ![Title](https://img.shields.io/badge/FRAMEWORKS_PLATFORMS_LIBRARIES:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-%23121011?style=for-the-badge&logo=Hibernate&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%23121011.svg?style=for-the-badge&logo=spring&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%23121011.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+---
 
 
 
 ![Title](https://img.shields.io/badge/SERVERS:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23121011.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-%23121011?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23121011.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
+---
  
 
 
@@ -38,6 +42,7 @@ I'm currently learning to be Full-Stack Java Developer
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%23121011.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%23121011.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-%23121011?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
+---
 
 
 ![Title](https://img.shields.io/badge/OTHER:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -47,6 +52,7 @@ I'm currently learning to be Full-Stack Java Developer
 ![Jira](https://img.shields.io/badge/jira-%23121011.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23121011.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23121011.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
+---
 
 ![](https://github-readme-stats.vercel.app/api?username=akkaya64&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akkaya64&theme=dark&hide_border=true)<br/>
@@ -56,7 +62,7 @@ I'm currently learning to be Full-Stack Java Developer
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ![](https://github-profile-trophy.vercel.app/?username=akkaya64&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
---
+---
 [![](https://visitcount.itsvg.in/api?id=fatihakkaya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
