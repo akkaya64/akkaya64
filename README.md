@@ -11,7 +11,7 @@ I'm currently learning to be a Full-Stack Java Developer. Because the software w
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%23121011.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/akkaya064?hr_r=1) 
 ---
 
-![Title](https://img.shields.io/badge/LANGUAGES:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
+![Title](https://img.shields.io/badge/LANGUAGES:-%23121011.svg?)
 ![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=blue) 
 ![Dart](https://img.shields.io/badge/dart-%23121011.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23121011.svg?style=for-the-badge&logo=html5&logoColor=white) 
