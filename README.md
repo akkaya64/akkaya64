@@ -21,7 +21,7 @@ I'm currently learning to be Full-Stack Java Developer
 ![JavaScript](https://img.shields.io/badge/javascript-%23121011.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 
-![Title](https://img.shields.io/badge/FRAMEWORKS, PLATFORMS & LIBRARIES::-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
+![Title](https://img.shields.io/badge/FRAMEWORKS_PLATFORMS_LIBRARIES::-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23121011?style=for-the-badge&logo=Hibernate&logoColor=white)  
 ![Spring](https://img.shields.io/badge/spring-%23121011.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%23121011.svg?style=for-the-badge&logo=Flutter&logoColor=white)
