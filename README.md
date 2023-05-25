@@ -4,14 +4,14 @@
 I'm currently learning to be a Full-Stack Java Developer. Because the software world is developing every day and I learn to new developing things every day.
 
 
-[![](https://visitcount.itsvg.in/api?id=akkaya64&label=Hackerrank&color=0&pretty=false)](https://visitcount.itsvg.in)
 ![Title](https://img.shields.io/badge/SOCIALS:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatihakkaya) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%23121011?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21657253) 
 [![Discord](https://img.shields.io/badge/Discord-%23121011.svg?logo=discord&logoColor=white)](https://discord.com/channels/fatihakkaya#9789) 
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-%23121011.svg?)](https://discord.com/channels/fatihakkaya#9789) 
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-%23121011.svg?logo=hackerrank&logoColor=white)](https://discord.com/channels/fatihakkaya#9789) 
 ---
 
+![hackerrank](https://github.com/akkaya64/akkaya64/assets/97364039/1ff0b30d-33a1-460f-94e3-b8efc280a372)
 
 
 
