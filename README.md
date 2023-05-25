@@ -14,13 +14,14 @@ I'm currently learning to be Full-Stack Java Developer
 
 
 
-![Hello](https://img.shields.io/badge/LANGUAGES:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
+![Title](https://img.shields.io/badge/LANGUAGES:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%23121011.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23121011.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23121011.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
-FRAMEWORKS, PLATFORMS & LIBRARIES:
+
+![Title](https://img.shields.io/badge/FRAMEWORKS, PLATFORMS & LIBRARIES::-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23121011?style=for-the-badge&logo=Hibernate&logoColor=white)  
 ![Spring](https://img.shields.io/badge/spring-%23121011.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%23121011.svg?style=for-the-badge&logo=Flutter&logoColor=white)
