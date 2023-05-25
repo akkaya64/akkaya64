@@ -14,9 +14,8 @@ I'm currently learning to be Full-Stack Java Developer
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23121011.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23121011.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
 
-### LANGUAGES:
-![Java](https://img.shields.io/badge/LANGUAGES-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
 
+![Java](https://img.shields.io/badge/LANGUAGES-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%23121011.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23121011.svg?style=for-the-badge&logo=html5&logoColor=white) 
