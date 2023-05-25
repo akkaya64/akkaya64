@@ -10,24 +10,27 @@ I'm currently learning to be Full-Stack Java Developer
 [![Discord](https://img.shields.io/badge/Discord-%23121011.svg?logo=discord&logoColor=white)](https://discord.com/channels/fatihakkaya#9789) 
 [![hackerrank](https://img.shields.io/badge/Discord-%23121011.svg?logo=discord&logoColor=white)](https://discord.com/channels/fatihakkaya#9789) 
 
-# LANGUAGES:
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23121011.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23121011.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
+
+LANGUAGES:
+![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%23121011.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23121011.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23121011.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-# FRAMEWORKS, PLATFORMS & LIBRARIES:
+FRAMEWORKS, PLATFORMS & LIBRARIES:
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23121011?style=for-the-badge&logo=Hibernate&logoColor=white)  
 ![Spring](https://img.shields.io/badge/spring-%23121011.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%23121011.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
-# SERVERS:
+SERVERS:
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23121011.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
  
 
-# DATABASES:
+DATABASES:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23121011.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23121011.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -55,6 +58,8 @@ OTHER
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fatihakkaya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://github-profile-trophy.vercel.app/?username=akkaya64&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
  
