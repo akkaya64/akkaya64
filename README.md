@@ -3,9 +3,8 @@
 
 I'm currently learning to be a Full-Stack Java Developer. Because the software world is developing every day and I learn to new developing things every day.
 
-![Title](https://www.hackerrank.com/fatihakkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fatihakkaya" height="30" width="40" /></a>
-</p>
 
+[![](https://visitcount.itsvg.in/api?id=akkaya64&label=Hackerrank&color=0&pretty=false)](https://visitcount.itsvg.in)
 ![Title](https://img.shields.io/badge/SOCIALS:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatihakkaya) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%23121011?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21657253) 
