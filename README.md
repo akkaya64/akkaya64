@@ -1,7 +1,7 @@
 #### Hi World 👋 I'm Fatih Akkaya
 
 
-I'm currently learning to be a Full-Stack Java Developer
+I'm currently learning to be a Full-Stack Java Developer. Because the software world is developing every day and I learn new things every day.
 
 
 ![Title](https://img.shields.io/badge/SOCIALS:-%23121011.svg?style=for-the-badge&logo=java&logoColor=white)
