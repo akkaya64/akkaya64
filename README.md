@@ -5,7 +5,7 @@ I'm currently learning to be a Full-Stack Java Developer. Because the software w
 
 
 ![Title](https://img.shields.io/badge/SOCIALS:-%FFFFFF7F.svg?style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?style=for-the-badge&logo=linkedin&logoColor=orange)](https://linkedin.com/in/fatihakkaya) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%FFFFFF7F.svg?style=for-the-badge&logo=linkedin&logoColor=orange)](https://linkedin.com/in/fatihakkaya) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%23121011?style=for-the-badge&logo=stack-overflow&logoColor=orange)](https://stackoverflow.com/users/21657253) 
 [![Discord](https://img.shields.io/badge/Discord-%23121011.svg?style=for-the-badge&logo=discord&logoColor=orange)](https://discord.com/channels/fatihakkaya#9789) 
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%23121011.svg?style=for-the-badge&logo=hackerrank&logoColor=orange)](https://www.hackerrank.com/akkaya064?hr_r=1) 
