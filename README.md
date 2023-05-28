@@ -21,7 +21,7 @@ I'm currently learning to be a Full-Stack Java Developer. Because the software w
 ![Title](https://img.shields.io/badge/FRAMEWORKS_PLATFORMS_LIBRARIES:-%23121011.svg?style=for-the-badge) 
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23121011?style=for-the-badge&logo=Hibernate&logoColor=orange) 
 ![Spring](https://img.shields.io/badge/spring-%23121011.svg?style=for-the-badge&logo=spring&logoColor=orange) 
-![Flutter](https://img.shields.io/badge/Flutter-%23121011.svg?style=for-the-badge&logo=Flutter&logoColor=orange)
+![Flutter](https://img.shields.io/badge/Flutter-%800000.svg?style=for-the-badge&logo=Flutter&logoColor=orange)
 ---
 
 ![Title](https://img.shields.io/badge/SERVERS:-%23121011.svg?style=for-the-badge)
