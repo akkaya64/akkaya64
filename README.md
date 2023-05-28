@@ -4,7 +4,7 @@
 I'm currently learning to be a Full-Stack Java Developer. Because the software world is developing every day and I learn to new developing things every day.
 
 
-![Title](https://img.shields.io/badge/SOCIALS:-%627D7C.svg?style=for-the-badge)
+![Title](https://img.shields.io/badge/SOCIALS:-%117A65.svg?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?style=for-the-badge&logo=linkedin&logoColor=orange)](https://linkedin.com/in/fatihakkaya) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%23121011?style=for-the-badge&logo=stack-overflow&logoColor=orange)](https://stackoverflow.com/users/21657253) 
 [![Discord](https://img.shields.io/badge/Discord-%23121011.svg?style=for-the-badge&logo=discord&logoColor=orange)](https://discord.com/channels/fatihakkaya#9789) 
