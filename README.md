@@ -25,18 +25,18 @@ I'm currently learning to be a Full-Stack Java Developer. Because the software w
 ![Flutter](https://img.shields.io/badge/Flutter-%800000.svg?style=for-the-badge&logo=Flutter&logoColor=orange)
 ---
 
-![Title](https://img.shields.io/badge/SERVERS:-%23121011.svg?style=for-the-badge)
+![Title](https://img.shields.io/badge/SERVERS:-f94144.svg?style=for-the-badge)
 ![Apache](https://img.shields.io/badge/apache-%23121011.svg?style=for-the-badge&logo=apache&logoColor=orange) 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-%23121011?style=for-the-badge&logo=Apache%20Maven&logoColor=orange) 
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23121011.svg?style=for-the-badge&logo=apache-tomcat&logoColor=orange) 
 ---
 
-![Title](https://img.shields.io/badge/DATABASES:-%23121011.svg?style=for-the-badge) 
+![Title](https://img.shields.io/badge/DATABASES:-f94144.svg?style=for-the-badge) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23121011.svg?style=for-the-badge&logo=mongodb&logoColor=orange) 
 ![Postgres](https://img.shields.io/badge/postgres-%23121011.svg?style=for-the-badge&logo=postgresql&logoColor=orange)
 ---
 
-![Title](https://img.shields.io/badge/DESIGN:-%23121011.svg?style=for-the-badge)
+![Title](https://img.shields.io/badge/DESIGN:-f94144.svg?style=for-the-badge)
 ![Inkscape](https://img.shields.io/badge/Inkscape-%23121011?style=for-the-badge&logo=inkscape&logoColor=orange)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23121011.svg?style=for-the-badge&logo=adobeillustrator&logoColor=orange) 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-%23121011?style=for-the-badge&logo=adobeindesign&logoColor=orange) 
@@ -46,7 +46,7 @@ I'm currently learning to be a Full-Stack Java Developer. Because the software w
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-%23121011?style=for-the-badge&logo=gimp&logoColor=orange) 
 ---
 
-![Title](https://img.shields.io/badge/OTHER:-%23121011.svg?style=for-the-badge)
+![Title](https://img.shields.io/badge/OTHER:-f94144.svg?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-%23121011.svg?style=for-the-badge&logo=postman&logoColor=orange) 
 ![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=orange) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=orange) 
