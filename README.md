@@ -25,33 +25,33 @@ I'm currently learning to be a Full-Stack Java Developer. Because the software w
 ---
 
 ![Title](https://img.shields.io/badge/SERVERS:-184e77.svg?style=for-the-badge)
-![Apache](https://img.shields.io/badge/apache-90be6d.svg?style=for-the-badge&logo=apache&logoColor=orange) 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-90be6d?style=for-the-badge&logo=Apache%20Maven&logoColor=orange) 
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-90be6d.svg?style=for-the-badge&logo=apache-tomcat&logoColor=orange) 
+![Apache](https://img.shields.io/badge/apache-34a0a4.svg?style=for-the-badge&logo=apache&logoColor=orange) 
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-34a0a4?style=for-the-badge&logo=Apache%20Maven&logoColor=orange) 
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-34a0a4.svg?style=for-the-badge&logo=apache-tomcat&logoColor=orange) 
 ---
 
 ![Title](https://img.shields.io/badge/DATABASES:-184e77.svg?style=for-the-badge) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%23121011.svg?style=for-the-badge&logo=mongodb&logoColor=orange) 
-![Postgres](https://img.shields.io/badge/postgres-%23121011.svg?style=for-the-badge&logo=postgresql&logoColor=orange)
+![MongoDB](https://img.shields.io/badge/MongoDB-52b69a.svg?style=for-the-badge&logo=mongodb&logoColor=orange) 
+![Postgres](https://img.shields.io/badge/postgres-52b69a.svg?style=for-the-badge&logo=postgresql&logoColor=orange)
 ---
 
 ![Title](https://img.shields.io/badge/DESIGN:-184e77.svg?style=for-the-badge)
-![Inkscape](https://img.shields.io/badge/Inkscape-%23121011?style=for-the-badge&logo=inkscape&logoColor=orange)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23121011.svg?style=for-the-badge&logo=adobeillustrator&logoColor=orange) 
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-%23121011?style=for-the-badge&logo=adobeindesign&logoColor=orange) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-%23121011.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=orange) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%23121011.svg?style=for-the-badge&logo=adobephotoshop&logoColor=orange) 
-![Canva](https://img.shields.io/badge/Canva-%23121011.svg?style=for-the-badge&logo=Canva&logoColor=orange) 
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-%23121011?style=for-the-badge&logo=gimp&logoColor=orange) 
+![Inkscape](https://img.shields.io/badge/Inkscape-76c893?style=for-the-badge&logo=inkscape&logoColor=orange)
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-76c893.svg?style=for-the-badge&logo=adobeillustrator&logoColor=orange) 
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-76c893?style=for-the-badge&logo=adobeindesign&logoColor=orange) 
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-76c893.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=orange) 
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-76c893.svg?style=for-the-badge&logo=adobephotoshop&logoColor=orange) 
+![Canva](https://img.shields.io/badge/Canva-76c893.svg?style=for-the-badge&logo=Canva&logoColor=orange) 
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-76c893?style=for-the-badge&logo=gimp&logoColor=orange) 
 ---
 
 ![Title](https://img.shields.io/badge/OTHER:-184e77.svg?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-%23121011.svg?style=for-the-badge&logo=postman&logoColor=orange) 
-![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=orange) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=orange) 
-![Jira](https://img.shields.io/badge/jira-%23121011.svg?style=for-the-badge&logo=jira&logoColor=orange) 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23121011.svg?style=for-the-badge&logo=intellij-idea&logoColor=orange) 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23121011.svg?style=for-the-badge&logo=visual-studio&logoColor=orange) 
+![Postman](https://img.shields.io/badge/Postman-99d98c.svg?style=for-the-badge&logo=postman&logoColor=orange) 
+![Git](https://img.shields.io/badge/git-99d98c.svg?style=for-the-badge&logo=git&logoColor=orange) 
+![GitHub](https://img.shields.io/badge/github-99d98c.svg?style=for-the-badge&logo=github&logoColor=orange) 
+![Jira](https://img.shields.io/badge/jira-99d98c.svg?style=for-the-badge&logo=jira&logoColor=orange) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-99d98c.svg?style=for-the-badge&logo=intellij-idea&logoColor=orange) 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-99d98c.svg?style=for-the-badge&logo=visual-studio&logoColor=orange) 
 ---
 
 ![](https://github-readme-stats.vercel.app/api?username=akkaya64&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false)<br/>
