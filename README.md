@@ -3,6 +3,7 @@
 
 I'm currently learning to be a Full-Stack Java Developer. Because the software world is developing every day and I learn to new developing things every day.
 
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 
 ![Title](https://img.shields.io/badge/SOCIALS:-%23121011.svg?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%ç.svg?style=for-the-badge&logo=linkedin&logoColor=orange)](https://linkedin.com/in/fatihakkaya) 
@@ -64,6 +65,7 @@ I'm currently learning to be a Full-Stack Java Developer. Because the software w
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akkaya64&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
