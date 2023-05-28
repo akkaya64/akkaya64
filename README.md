@@ -4,38 +4,38 @@
 I'm currently learning to be a Full-Stack Java Developer. Because the software world is developing every day and I learn to new developing things every day.
 
 
-![Title](https://img.shields.io/badge/SOCIALS:-ff7b00?style=for-the-badge)
+![Title](https://img.shields.io/badge/SOCIALS:-003554?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e6091.svg?style=for-the-badge&logo=linkedin&logoColor=orange)](https://linkedin.com/in/fatihakkaya) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-1e6091?style=for-the-badge&logo=stack-overflow&logoColor=orange)](https://stackoverflow.com/users/21657253) 
 [![Discord](https://img.shields.io/badge/Discord-1e6091.svg?style=for-the-badge&logo=discord&logoColor=orange)](https://discord.com/channels/fatihakkaya#9789) 
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-1e6091.svg?style=for-the-badge&logo=hackerrank&logoColor=orange)](https://www.hackerrank.com/akkaya064?hr_r=1) 
 ---
 
-![Title](https://img.shields.io/badge/LANGUAGES:-ff7b00.svg?style=for-the-badge)
+![Title](https://img.shields.io/badge/LANGUAGES:-003554.svg?style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-1a759f.svg?style=for-the-badge&logo=java&logoColor=orange) 
 ![Dart](https://img.shields.io/badge/dart-1a759f.svg?style=for-the-badge&logo=dart&logoColor=orange) 
 ![HTML5](https://img.shields.io/badge/html5-1a759f.svg?style=for-the-badge&logo=html5&logoColor=orange) 
 ![JavaScript](https://img.shields.io/badge/javascript-1a759f.svg?style=for-the-badge&logo=javascript&logoColor=orange)
 ---
 
-![Title](https://img.shields.io/badge/FRAMEWORKS_PLATFORMS_LIBRARIES:-ff7b00.svg?style=for-the-badge) 
+![Title](https://img.shields.io/badge/FRAMEWORKS_PLATFORMS_LIBRARIES:-003554.svg?style=for-the-badge) 
 ![Hibernate](https://img.shields.io/badge/Hibernate-168aad?style=for-the-badge&logo=Hibernate&logoColor=orange) 
 ![Spring](https://img.shields.io/badge/spring-168aad.svg?style=for-the-badge&logo=spring&logoColor=orange) 
 ![Flutter](https://img.shields.io/badge/Flutter-168aad.svg?style=for-the-badge&logo=Flutter&logoColor=orange)
 ---
 
-![Title](https://img.shields.io/badge/SERVERS:-ff7b00.svg?style=for-the-badge)
+![Title](https://img.shields.io/badge/SERVERS:-003554.svg?style=for-the-badge)
 ![Apache](https://img.shields.io/badge/apache-34a0a4.svg?style=for-the-badge&logo=apache&logoColor=orange) 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-34a0a4?style=for-the-badge&logo=Apache%20Maven&logoColor=orange) 
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-34a0a4.svg?style=for-the-badge&logo=apache-tomcat&logoColor=orange) 
 ---
 
-![Title](https://img.shields.io/badge/DATABASES:-ff7b00.svg?style=for-the-badge) 
+![Title](https://img.shields.io/badge/DATABASES:-003554.svg?style=for-the-badge) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-52b69a.svg?style=for-the-badge&logo=mongodb&logoColor=orange) 
 ![Postgres](https://img.shields.io/badge/postgres-52b69a.svg?style=for-the-badge&logo=postgresql&logoColor=orange)
 ---
 
-![Title](https://img.shields.io/badge/DESIGN:-ff7b00.svg?style=for-the-badge)
+![Title](https://img.shields.io/badge/DESIGN:-003554.svg?style=for-the-badge)
 ![Inkscape](https://img.shields.io/badge/Inkscape-76c893?style=for-the-badge&logo=inkscape&logoColor=orange)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-76c893.svg?style=for-the-badge&logo=adobeillustrator&logoColor=orange) 
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-76c893?style=for-the-badge&logo=adobeindesign&logoColor=orange) 
@@ -45,7 +45,7 @@ I'm currently learning to be a Full-Stack Java Developer. Because the software w
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-76c893?style=for-the-badge&logo=gimp&logoColor=orange) 
 ---
 
-![Title](https://img.shields.io/badge/OTHER:-ff7b00.svg?style=for-the-badge)
+![Title](https://img.shields.io/badge/OTHER:-003554.svg?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-99d98c.svg?style=for-the-badge&logo=postman&logoColor=orange) 
 ![Git](https://img.shields.io/badge/git-99d98c.svg?style=for-the-badge&logo=git&logoColor=orange) 
 ![GitHub](https://img.shields.io/badge/github-99d98c.svg?style=for-the-badge&logo=github&logoColor=orange) 
