@@ -6,29 +6,29 @@ I'm currently learning to be a Full-Stack Java Developer. Because the software w
 
 ![Title](https://img.shields.io/badge/PostgreSQL-7b2cbf?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Title](https://img.shields.io/badge/SOCIALS:-f94144?style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%ç.svg?style=for-the-badge&logo=linkedin&logoColor=orange)](https://linkedin.com/in/fatihakkaya) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-%23121011?style=for-the-badge&logo=stack-overflow&logoColor=orange)](https://stackoverflow.com/users/21657253) 
-[![Discord](https://img.shields.io/badge/Discord-%23121011.svg?style=for-the-badge&logo=discord&logoColor=orange)](https://discord.com/channels/fatihakkaya#9789) 
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-%23121011.svg?style=for-the-badge&logo=hackerrank&logoColor=orange)](https://www.hackerrank.com/akkaya064?hr_r=1) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f3722c.svg?style=for-the-badge&logo=linkedin&logoColor=orange)](https://linkedin.com/in/fatihakkaya) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-f3722c?style=for-the-badge&logo=stack-overflow&logoColor=orange)](https://stackoverflow.com/users/21657253) 
+[![Discord](https://img.shields.io/badge/Discord-f3722c.svg?style=for-the-badge&logo=discord&logoColor=orange)](https://discord.com/channels/fatihakkaya#9789) 
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-f3722c.svg?style=for-the-badge&logo=hackerrank&logoColor=orange)](https://www.hackerrank.com/akkaya064?hr_r=1) 
 ---
 
-![Title](https://img.shields.io/badge/LANGUAGES:-%23121011.svg?style=for-the-badge)
-![Java](https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=orange) 
-![Dart](https://img.shields.io/badge/dart-%23121011.svg?style=for-the-badge&logo=dart&logoColor=orange) 
-![HTML5](https://img.shields.io/badge/html5-%23121011.svg?style=for-the-badge&logo=html5&logoColor=orange) 
-![JavaScript](https://img.shields.io/badge/javascript-%23121011.svg?style=for-the-badge&logo=javascript&logoColor=orange)
+![Title](https://img.shields.io/badge/LANGUAGES:-f94144.svg?style=for-the-badge)
+![Java](https://img.shields.io/badge/java-f8961e.svg?style=for-the-badge&logo=java&logoColor=orange) 
+![Dart](https://img.shields.io/badge/dart-f8961e.svg?style=for-the-badge&logo=dart&logoColor=orange) 
+![HTML5](https://img.shields.io/badge/html5-f8961e.svg?style=for-the-badge&logo=html5&logoColor=orange) 
+![JavaScript](https://img.shields.io/badge/javascript-f8961e.svg?style=for-the-badge&logo=javascript&logoColor=orange)
 ---
 
 ![Title](https://img.shields.io/badge/FRAMEWORKS_PLATFORMS_LIBRARIES:-f94144.svg?style=for-the-badge) 
-![Hibernate](https://img.shields.io/badge/Hibernate-%23121011?style=for-the-badge&logo=Hibernate&logoColor=orange) 
-![Spring](https://img.shields.io/badge/spring-%23121011.svg?style=for-the-badge&logo=spring&logoColor=orange) 
-![Flutter](https://img.shields.io/badge/Flutter-%800000.svg?style=for-the-badge&logo=Flutter&logoColor=orange)
+![Hibernate](https://img.shields.io/badge/Hibernate-f9c74f?style=for-the-badge&logo=Hibernate&logoColor=orange) 
+![Spring](https://img.shields.io/badge/spring-f9c74f.svg?style=for-the-badge&logo=spring&logoColor=orange) 
+![Flutter](https://img.shields.io/badge/Flutter-f9c74f.svg?style=for-the-badge&logo=Flutter&logoColor=orange)
 ---
 
 ![Title](https://img.shields.io/badge/SERVERS:-f94144.svg?style=for-the-badge)
-![Apache](https://img.shields.io/badge/apache-%23121011.svg?style=for-the-badge&logo=apache&logoColor=orange) 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-%23121011?style=for-the-badge&logo=Apache%20Maven&logoColor=orange) 
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23121011.svg?style=for-the-badge&logo=apache-tomcat&logoColor=orange) 
+![Apache](https://img.shields.io/badge/apache-90be6d.svg?style=for-the-badge&logo=apache&logoColor=orange) 
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-90be6d?style=for-the-badge&logo=Apache%20Maven&logoColor=orange) 
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-90be6d.svg?style=for-the-badge&logo=apache-tomcat&logoColor=orange) 
 ---
 
 ![Title](https://img.shields.io/badge/DATABASES:-f94144.svg?style=for-the-badge) 
