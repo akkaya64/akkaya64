@@ -1,7 +1,6 @@
-#### Hi Digital Universe 👋 I'm Fatih Akkaya
+Hello, Digital Universe 👋 I'm Fatih Akkaya.
 
-
-I'm currently learning to be a Full-Stack Java Developer. Because the software world is developing every day and I learn to new developing things every day.
+I passionately embrace each day as an opportunity for learning and growth."
 
 
 ![Title](https://img.shields.io/badge/SOCIALS:-184e77?style=for-the-badge)
