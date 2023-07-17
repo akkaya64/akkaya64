@@ -65,6 +65,9 @@ I'm currently learning to be a Full-Stack Java Developer. Because the software w
 ---
 [![](https://visitcount.itsvg.in/api?id=akkaya64&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akkaya64&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+
+
 
 
 
