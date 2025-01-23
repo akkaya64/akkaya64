@@ -57,7 +57,7 @@ I passionately embrace each day as an opportunity for learning and growth."
 
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&backgroundColor=4B4376)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&bg_color=B4376)
 ![](https://github-profile-trophy.vercel.app/?username=akkaya64&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 ---
