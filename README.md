@@ -56,16 +56,7 @@ I passionately embrace each day as an opportunity for learning and growth."
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akkaya64&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=47663B)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&bg_color=B4376)
-![](https://github-profile-trophy.vercel.app/?username=akkaya64&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
-![](https://github-profile-trophy.vercel.app/?username=akkaya64&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&bg_color=433878)
-![](https://github-profile-trophy.vercel.app/?username=akkaya64&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&bg_color=433878)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&no-frame=true&bg_color=1E3E62)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-readme-stats.vercel.app/api?username=akkaya64&show_icons=true&bg_color=1E3E62&title_color=ffffff&text_color=ffffff)
-![](https://ghchart.rshah.org/1E3E62/akkaya64)
-![](https://activity-graph.herokuapp.com/graph?username=akkaya64&theme=react-dark&bg_color=1E3E62&line=ffffff&point=ffffff)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkaya64&theme=solarized_dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=B4376)
 
 
 
