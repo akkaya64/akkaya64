@@ -52,10 +52,8 @@ I passionately embrace each day as an opportunity for learning and growth."
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-474E93.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-474E93.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
 
-![](https://github-readme-stats.vercel.app/api?username=akkaya64&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&bg_color=1F509A)
+![](https://github-readme-stats.vercel.app/api?username=akkaya64&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&bg_color=1F509A&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akkaya64&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=47663B)
-![](https://github-readme-stats.vercel.app/api?username=akkaya64&show_icons=true&bg_color=1E3E62&title_color=ffffff&text_color=ffffff)
-![](https://github-readme-streak-stats.herokuapp.com/?user=akkaya64&theme=slateorange&hide_border=true)
 
 
 
