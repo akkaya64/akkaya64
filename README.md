@@ -1,26 +1,12 @@
-```plaintext
-Hello, Digital Universe 👋 I'm Fatih Akkaya.
 
-I passionately embrace each day as an opportunity for learning and growth.
-```
-## Hello, Digital Universe 👋 I'm Fatih Akkaya
 
-*I passionately embrace each day as an opportunity for learning and growth.*
-
----
-
-<div style="font-size: 1.5em;">
+<div style="font-size: 2.5em;">
 <pre>
 Hello, Digital Universe 👋 I'm Fatih Akkaya.
 
 I passionately embrace each day as an opportunity for learning and growth.
 </pre>
 </div>
-
----
-
-
-
 
 
 ![Title](https://img.shields.io/badge/SOCIALS:-EFB036?style=for-the-badge)
