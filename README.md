@@ -61,7 +61,8 @@
 </div>
 
 ---
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkaya64&theme=slateorange)](https://github.com/akkaya64)
+[![GitHub Gist Pins](https://github-readme-stats.vercel.app/api/pin/?username=akkaya64&repo=your-gist-name&bg_color=1F509A&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true)](https://gist.github.com/akkaya64)
+
 
 
 
