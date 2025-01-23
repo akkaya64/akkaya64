@@ -11,10 +11,10 @@ I passionately embrace each day as an opportunity for learning and growth."
 
 
 ![Title](https://img.shields.io/badge/LANGUAGES:-EFB036.svg?style=for-the-badge)
-![Java](https://img.shields.io/badge/java-E82561.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-E82561.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-E82561.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-E82561.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/java-522258.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-522258.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-522258.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-522258.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 
 ![Title](https://img.shields.io/badge/FRAMEWORKS_PLATFORMS_LIBRARIES:-EFB036.svg?style=for-the-badge) 
