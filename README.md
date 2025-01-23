@@ -54,6 +54,10 @@ I passionately embrace each day as an opportunity for learning and growth."
 
 ![](https://github-readme-stats.vercel.app/api?username=akkaya64&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&bg_color=1F509A&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akkaya64&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=47663B&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
+<div style="width: 500px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkaya64&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=47663B&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" style="width: 100%;">
+</div>
+
 
 
 
