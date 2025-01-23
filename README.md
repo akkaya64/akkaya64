@@ -18,9 +18,9 @@ I passionately embrace each day as an opportunity for learning and growth."
 
 
 ![Title](https://img.shields.io/badge/FRAMEWORKS_PLATFORMS_LIBRARIES:-EFB036.svg?style=for-the-badge) 
-![Hibernate](https://img.shields.io/badge/Hibernate-3E7B27?style=for-the-badge&logo=Hibernate&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-3E7B27.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-3E7B27.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-134B70?style=for-the-badge&logo=Hibernate&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-134B70.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-134B70.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
 ![Title](https://img.shields.io/badge/SERVERS:-EFB036.svg?style=for-the-badge)
