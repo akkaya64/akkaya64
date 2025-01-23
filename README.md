@@ -1,19 +1,8 @@
 
-<div style="font-size: 72px; line-height: 15;">
-<pre style="font-family: Consolas, Monaco, 'Courier New', Courier, monospace;">
-### Hello, Digital Universe 👋 I'm Fatih Akkaya
-
-I passionately embrace each day as an opportunity for learning and growth.
-</pre>
-</div>
-
----
-
 ### Hello, Digital Universe 👋 I'm Fatih Akkaya
 
 I passionately embrace each day as an opportunity for learning and growth.
 
----
 
 
 
