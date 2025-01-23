@@ -7,6 +7,15 @@ I passionately embrace each day as an opportunity for learning and growth.
 </pre>
 </div>
 
+---
+
+### Hello, Digital Universe 👋 I'm Fatih Akkaya
+
+I passionately embrace each day as an opportunity for learning and growth.
+
+---
+
+
 
 ![Title](https://img.shields.io/badge/SOCIALS:-EFB036?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F509A.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatihakkaya) 
