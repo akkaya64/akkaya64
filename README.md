@@ -60,9 +60,40 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkaya64&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=640D5F&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" style="height: 200px;">
 </div>
 
+---
 
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akkaya64&theme=github&bg_color=1F509A&color=ffffff&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/akkaya64)
 
+---
+![GitHub Snake Animation](https://github.com/akkaya64/akkaya64/blob/output/github-contribution-grid-snake.svg)
+---
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkaya64&theme=slateorange)](https://github.com/akkaya64)
 
+---
+[![GitHub Gist Pins](https://github-readme-stats.vercel.app/api/pin/?username=akkaya64&repo=your-gist-name&bg_color=1F509A&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true)](https://gist.github.com/akkaya64)
+
+---
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=akkaya64&repo=your-repo-name&bg_color=1F509A&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true)](https://github.com/akkaya64/your-repo-name)
+
+---
+---
+
+### Hello, Digital Universe 👋 I'm Fatih Akkaya
+
+I passionately embrace each day as an opportunity for learning and growth.
+
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=akkaya64&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&bg_color=1F509A&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkaya64&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=640D5F&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" style="height: 200px;">
+</div>
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akkaya64&theme=github&bg_color=1F509A&color=ffffff&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/akkaya64)
+
+![GitHub Snake Animation](https://github.com/akkaya64/akkaya64/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+Bu düzenleme ile profilinizi daha çekici ve bilgi dolu hale getirebilirsiniz. Başka bir grafik eklemek veya herhangi bir konuda yardım almak isterseniz, bana bildirin! 😊🚀✨
 
 
 
