@@ -35,13 +35,13 @@ I passionately embrace each day as an opportunity for learning and growth."
 
 
 ![Title](https://img.shields.io/badge/DESIGN:-EFB036.svg?style=for-the-badge)
-![Inkscape](https://img.shields.io/badge/Inkscape-C30E59?style=for-the-badge&logo=inkscape&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-C30E59.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-C30E59?style=for-the-badge&logo=adobeindesign&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-C30E59.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-C30E59.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-C30E59.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-C30E59?style=for-the-badge&logo=gimp&logoColor=white) 
+![Inkscape](https://img.shields.io/badge/Inkscape-8C3061?style=for-the-badge&logo=inkscape&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-8C3061.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-8C3061?style=for-the-badge&logo=adobeindesign&logoColor=white) 
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-8C3061.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-8C3061.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-8C3061.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-8C3061?style=for-the-badge&logo=gimp&logoColor=white) 
 
 
 ![Title](https://img.shields.io/badge/OTHER:-EFB036.svg?style=for-the-badge)
