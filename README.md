@@ -62,6 +62,7 @@ I passionately embrace each day as an opportunity for learning and growth."
 ![](https://github-profile-trophy.vercel.app/?username=akkaya64&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&bg_color=433878)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox&no-frame=true&bg_color=1E3E62)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-stats.vercel.app/api?username=akkaya64&show_icons=true&bg_color=1E3E62&title_color=ffffff&text_color=ffffff)
 
 
 
