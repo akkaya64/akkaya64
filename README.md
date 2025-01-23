@@ -61,8 +61,7 @@
 </div>
 
 ---
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akkaya64&theme=github&bg_color=1F509A&color=ffffff&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/akkaya64)
-
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkaya64&theme=slateorange)](https://github.com/akkaya64)
 
 
 
