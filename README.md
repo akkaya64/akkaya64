@@ -1,5 +1,5 @@
 
-<div style="font-size: 36px; line-height: 7;">
+<div style="font-size: 72px; line-height: 15;">
 <pre style="font-family: Consolas, Monaco, 'Courier New', Courier, monospace;">
 Hello, Digital Universe 👋 I'm Fatih Akkaya.
 
