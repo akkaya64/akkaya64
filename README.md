@@ -61,7 +61,10 @@
 </div>
 
 ---
-[![GitHub Gist Pins](https://github-readme-stats.vercel.app/api/pin/?username=akkaya64&repo=your-gist-name&bg_color=1F509A&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true)](https://gist.github.com/akkaya64)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=akkaya64&theme=github&bg_color=1F509A&color=ffffff&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/akkaya64)
+
+[![GitHub Gist Pins](https://github-readme-stats.vercel.app/api/pin/?username=akkaya64&repo=example-gist&bg_color=1F509A&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true)](https://gist.github.com/akkaya64)
+
 
 
 
