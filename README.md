@@ -6,6 +6,15 @@ I passionately embrace each day as an opportunity for learning and growth.
 
 ---
 
+---
+
+```plaintext
+Hello, Digital Universe 👋 I'm Fatih Akkaya.
+
+I passionately embrace each day as an opportunity for learning and growth.
+```
+
+
 
 
 
