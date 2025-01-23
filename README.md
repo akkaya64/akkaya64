@@ -57,3 +57,12 @@ I passionately embrace each day as an opportunity for learning and growth."
 
 
 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&bg_color=B4376)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=akkaya64&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
