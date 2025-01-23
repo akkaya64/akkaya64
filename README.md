@@ -57,21 +57,10 @@ I passionately embrace each day as an opportunity for learning and growth."
 
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&backgroundColor=4B4376)
 ![](https://github-profile-trophy.vercel.app/?username=akkaya64&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akkaya64&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
- 
-# 💫 About Me:
-## 🌐 Socials:
-# 💻 Tech Stack:
-# 📊 GitHub Stats:
-### ✍️ Random Dev Quote
--->
