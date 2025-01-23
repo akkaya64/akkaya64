@@ -3,6 +3,21 @@ Hello, Digital Universe 👋 I'm Fatih Akkaya.
 
 I passionately embrace each day as an opportunity for learning and growth.
 ```
+## Hello, Digital Universe 👋 I'm Fatih Akkaya
+
+*I passionately embrace each day as an opportunity for learning and growth.*
+
+---
+
+<div style="font-size: 1.5em;">
+<pre>
+Hello, Digital Universe 👋 I'm Fatih Akkaya.
+
+I passionately embrace each day as an opportunity for learning and growth.
+</pre>
+</div>
+
+---
 
 
 
