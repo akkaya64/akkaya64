@@ -3,11 +3,11 @@ Hello, Digital Universe 👋 I'm Fatih Akkaya.
 I passionately embrace each day as an opportunity for learning and growth."
 
 
-![Title](https://img.shields.io/badge/SOCIALS:-184e77?style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e6091.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatihakkaya) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-1e6091?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21657253) 
-[![Discord](https://img.shields.io/badge/Discord-1e6091.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/fatihakkaya#9789) 
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-1e6091.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/akkaya064?hr_r=1) 
+![Title](https://img.shields.io/badge/SOCIALS:-EFB036?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B6790.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatihakkaya) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-3B6790?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21657253) 
+[![Discord](https://img.shields.io/badge/Discord-3B6790.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/fatihakkaya#9789) 
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-3B6790.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/akkaya064?hr_r=1) 
 
 
 ![Title](https://img.shields.io/badge/LANGUAGES:-184e77.svg?style=for-the-badge)
