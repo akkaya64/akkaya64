@@ -24,9 +24,9 @@ I passionately embrace each day as an opportunity for learning and growth."
 
 
 ![Title](https://img.shields.io/badge/SERVERS:-EFB036.svg?style=for-the-badge)
-![Apache](https://img.shields.io/badge/apache-5E686D.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-5E686Dstyle=for-the-badge&logo=Apache%20Maven&logoColor=white) 
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-5E686D.svg?style=for-the-badge&logo=apache-tomcat&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-69247C.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-69247C.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-69247C.svg?style=for-the-badge&logo=apache-tomcat&logoColor=white) 
 
 
 ![Title](https://img.shields.io/badge/DATABASES:-EFB036.svg?style=for-the-badge) 
